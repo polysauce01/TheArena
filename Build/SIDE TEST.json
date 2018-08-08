@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "THE ARENA BUILD 2",
+"dataUrl": "SIDE TEST.data.unityweb",
+"wasmCodeUrl": "SIDE TEST.wasm.code.unityweb",
+"wasmFrameworkUrl": "SIDE TEST.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#060606"
+}
